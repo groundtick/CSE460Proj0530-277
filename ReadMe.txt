@@ -1,0 +1,1 @@
+The submission contains all classes as well as the report and the main class is Main.java, The text files only needs to be run through Main.java.
